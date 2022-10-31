@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm <strong>Anzar Ahmad</strong>, a passionate Full Stack Web Developer and a Data Analyst pursuing B.Tech in Electronics and Communication Engineering.
+I'm <strong>Md Anzar Ahmad</strong>, a passionate Full Stack Web Developer and a Data Analyst pursuing B.Tech in Electronics and Communication Engineering.
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on OpenAI.
