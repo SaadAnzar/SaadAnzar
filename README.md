@@ -4,7 +4,8 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 My name is Md Anzar Ahmad
 ------------------------------
 
-#### I'm a passionate Full Stack Web Developer and a Data Analyst pursuing B.Tech in Electronics and Communication Engineering.
+### I'm a passionate Full Stack Web Developer and a Data Analyst pursuing B.Tech in Electronics and Communication Engineering.
+------------------------------
 
 * 😄  Pronouns: He/Him
 * 🌍  I'm based in New Delhi, India
