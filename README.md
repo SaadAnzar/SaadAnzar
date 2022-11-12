@@ -23,7 +23,10 @@ I'm a passionate Full Stack Web Developer and a Data Analyst pursuing B.Tech in 
 *   🖥️  See my portfolio at [myPortfolio](http://anzarahmad.herokuapp.com)
 *   ✉️  You can contact me at [anzarahmadcea@gmail.com](mailto:anzarahmadcea@gmail.com)
 *   🧠  I'm learning Machine Learning and Data Structures
-*   🤝  I'm open to collaborating on Web dev projects### Skills 
+*   🤝  I'm open to collaborating on Web dev projects
+
+### Skills 
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
