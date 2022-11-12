@@ -1,16 +1,3 @@
-### Hi there 👋
-
-I'm <strong>Md Anzar Ahmad</strong>, a passionate Full Stack Web Developer and a Data Analyst pursuing B.Tech in Electronics and Communication Engineering.
-
-- 😄 Pronouns: He/Him
-- 🔭 I’m currently working on OpenAI.
-- 🌱 I’m currently learning Machine Learning and Deep Learning.
-- 👯 I’m looking to collaborate on Web Dev.
-- 🤔 I’m looking for help with Data Science projects.
-- 💬 Ask me about JavaScript, DSA, Data Analysis, Football.
-- 📫 Reach me at: anzarahmadcea@gmail.com
-- 📫 Portfolio Website: https://anzar-ahmad.netlify.app
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md Anzar Ahmad
 ======================================================================================================================================
 
@@ -19,13 +6,14 @@ Web Developer and Data Analyst
 
 I'm a passionate Full Stack Web Developer and a Data Analyst pursuing B.Tech in Electronics and Communication Engineering.
 
-*   🌍  I'm based in New Delhi, India
-*   🖥️  See my portfolio at [myPortfolio](http://anzarahmad.herokuapp.com)
-*   ✉️  You can contact me at [anzarahmadcea@gmail.com](mailto:anzarahmadcea@gmail.com)
-*   🧠  I'm learning Machine Learning and Data Structures
-*   🤝  I'm open to collaborating on Web dev projects
+* 🌍  I'm based in New Delhi, India
+* 🖥️  See my portfolio at [myPortfolio](http://anzarahmad.herokuapp.com)
+* ✉️  You can contact me at [anzarahmadcea@gmail.com](mailto:anzarahmadcea@gmail.com)
+* 🧠  I'm learning Machine Learning and Data Structures
+* 🤝  I'm open to collaborating on Web dev projects
 
-### Skills 
+### Skills
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -53,25 +41,28 @@ I'm a passionate Full Stack Web Developer and a Data Analyst pursuing B.Tech in 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/SaadAnzar#3099" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.facebook.com/saad.anzu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/SaadAnzar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/saad.anzar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/anzarahmad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/saad_anzar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/SaadAnzar"><img src="https://github-readme-stats.vercel.app/api?username=SaadAnzar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SaadAnzar's GitHub stats" /></a><a
-                      href="http://www.github.com/SaadAnzar"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=SaadAnzar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/SaadAnzar"><img src="https://activity-graph.herokuapp.com/graph?username=SaadAnzar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/SaadAnzar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAnzar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/SaadAnzar/Meal-Recipe-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAnzar&repo=Meal-Recipe-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SaadAnzar/HospQueue" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAnzar&repo=HospQueue&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />### Support Me<a
-                  href="https://www.buymeacoffee.com/anzar"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/SaadAnzar#3099" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/saad.anzu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/SaadAnzar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/saad.anzar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anzarahmad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/saad_anzar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/SaadAnzar"><img src="https://github-readme-stats.vercel.app/api?username=SaadAnzar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SaadAnzar's GitHub stats" /></a>
+
+<a href="http://www.github.com/SaadAnzar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadAnzar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/SaadAnzar"><img src="https://activity-graph.herokuapp.com/graph?username=SaadAnzar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/SaadAnzar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAnzar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/SaadAnzar/Meal-Recipe-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAnzar&repo=Meal-Recipe-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SaadAnzar/HospQueue" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadAnzar&repo=HospQueue&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/anzar"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
