@@ -6,11 +6,14 @@ Web Developer and Data Analyst
 
 I'm a passionate Full Stack Web Developer and a Data Analyst pursuing B.Tech in Electronics and Communication Engineering.
 
+* 😄  Pronouns: He/Him
 * 🌍  I'm based in New Delhi, India
+* 🔭  I’m currently working on OpenAI.
+* 🤝  I'm open to collaborating on web dev projects
+* 🧠  I'm currently learning Machine Learning and Data Structures
+* 💬  Ask me about Football, Web series.
 * 🖥️  See my portfolio at [myPortfolio](http://anzarahmad.herokuapp.com)
 * ✉️  You can contact me at [anzarahmadcea@gmail.com](mailto:anzarahmadcea@gmail.com)
-* 🧠  I'm learning Machine Learning and Data Structures
-* 🤝  I'm open to collaborating on Web dev projects
 
 ### Skills
 
