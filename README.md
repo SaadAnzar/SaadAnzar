@@ -5,7 +5,6 @@ My name is Md Anzar Ahmad
 ------------------------------
 
 ### I'm a passionate Full Stack Web Developer and a Data Analyst pursuing B.Tech in Electronics and Communication Engineering.
-------------------------------
 
 * 😄  Pronouns: He/Him
 * 🌍  I'm based in New Delhi, India
