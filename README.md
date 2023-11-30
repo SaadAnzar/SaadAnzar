@@ -12,7 +12,7 @@ My name is Md Anzar Ahmad
 * 🤝  I'm open to collaborating on web dev projects
 * 🧠  I'm currently learning Machine Learning and Data Structures
 * 💬  Ask me about Football, Web series.
-* 🖥️  See my portfolio at [myPortfolio](http://anzarahmad.me)
+* 🖥️  See my portfolio at [myPortfolio](http://mdanzarahmad.co)
 * ✉️  You can contact me at [anzarhps@gmail.com](mailto:anzarhps@gmail.com)
 
 ### Skills
