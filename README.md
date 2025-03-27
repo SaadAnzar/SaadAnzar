@@ -6,7 +6,8 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 ### i tell computers to do stuff, occasionally they listen.
 
 - 🌍 I'm based in New Delhi, India
-- 🔭 I’m currently working on [PaperBrain](https://paperbrain.org), a platform that helps you explore and understand research papers better using AI.
+- 🔨 I'm currently working at [Euler Motors](https://www.eulermotors.com/en/).
+- 🔭 I’m the founder of [PaperBrain](https://paperbrain.org), a platform that provides an AI-powered assistant, fueled by GPT, to help users understand research papers on the fly.
 - 🎓 I graduated in 2024 with a B.Tech in Electronics and Communication Engineering.
 - 🤝 I'm open to collaborating on AI/ML projects.
 - 💬 Ask me about Football, Web series.
@@ -16,9 +17,4 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/SaadAnzar#3099" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>    <a href="https://www.github.com/SaadAnzar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>    <a href="https://www.linkedin.com/in/anzarahmad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>    <a href="https://www.x.com/saad_anzar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" width="32" height="32" /></a></p>
-
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/anzar"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<p align="left"> <a href="https://discord.com/users/SaadAnzar#3099" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>    <a href="https://www.github.com/SaadAnzar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>    <a href="https://www.linkedin.com/in/anzarahmad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>    <a href="https://www.x.com/saad_anzar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="32" height="32" /></a></p>
